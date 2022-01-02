@@ -1,0 +1,35 @@
+@namespace NEW_MVC
+@{
+    @model List<product>
+
+        <table style="margin-top:5px;" class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Type</th>
+            <th scope="col">Price</th>
+            
+        </tr>
+
+
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th style="color: red;" scope="col">@item.id</th>
+                <td style="color: black;">@item.name</td>
+                <td style="color: black;">@item.type</td>
+                <td style="color: black;">@item.price</td>
+                
+                <td>
+                    <button type="button" class="btn btn-danger btn-sm"><a style="color:blue;" href="/home/delete/@item.id">Delete</a></button>
+                    <button type="button" class="btn btn-success btn-sm"><a style="color: blue;" href="/home/edit/@item.id">Edit</a></button>
+                    </td>
+                
+            </tr>
+        }
+    </tbody>
+</table>
+}

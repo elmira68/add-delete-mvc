@@ -1,0 +1,134 @@
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\appsettings.json
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\new_mvc.exe
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\new_mvc.deps.json
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\new_mvc.runtimeconfig.json
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\new_mvc.runtimeconfig.dev.json
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\new_mvc.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\ref\new_mvc.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\new_mvc.pdb
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\new_mvc.Views.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\new_mvc.Views.pdb
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.csproj.AssemblyReference.cache
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.AssemblyInfoInputs.cache
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.AssemblyInfo.cs
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.csproj.CoreCompileInputs.cache
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.RazorAssemblyInfo.cache
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.RazorAssemblyInfo.cs
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\staticwebassets\new_mvc.StaticWebAssets.Manifest.cache
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\staticwebassets\new_mvc.StaticWebAssets.xml
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\scopedcss\bundle\new_mvc.styles.css
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.TagHelpers.input.cache
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.TagHelpers.output.cache
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.RazorCoreGenerate.cache
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.RazorTargetAssemblyInfo.cache
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.RazorTargetAssemblyInfo.cs
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.Views.pdb
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.dll
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\ref\new_mvc.dll
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.pdb
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.genruntimeconfig.cache
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\new_mvc.csproj.CopyComplete
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\Razor\Views\home\index.cshtml.g.cs
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\Humanizer.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\eli\Desktop\new_mvc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eli\Desktop\new_mvc\obj\Debug\net5.0\Razor\Views\Home\Show.cshtml.g.cs
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\appsettings.json
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\new_mvc.exe
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\new_mvc.deps.json
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\new_mvc.runtimeconfig.json
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\new_mvc.runtimeconfig.dev.json
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\new_mvc.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\ref\new_mvc.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\new_mvc.pdb
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\new_mvc.Views.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\new_mvc.Views.pdb
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\Humanizer.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\eli\Desktop\new_mvc - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.csproj.AssemblyReference.cache
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.AssemblyInfoInputs.cache
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.AssemblyInfo.cs
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.csproj.CoreCompileInputs.cache
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.RazorAssemblyInfo.cache
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.RazorAssemblyInfo.cs
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\staticwebassets\new_mvc.StaticWebAssets.Manifest.cache
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\staticwebassets\new_mvc.StaticWebAssets.xml
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\scopedcss\bundle\new_mvc.styles.css
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.TagHelpers.input.cache
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.TagHelpers.output.cache
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.RazorCoreGenerate.cache
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\Razor\Views\Home\Show_Product.cshtml.g.cs
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.RazorTargetAssemblyInfo.cache
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.RazorTargetAssemblyInfo.cs
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.Views.pdb
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.dll
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\ref\new_mvc.dll
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.pdb
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.genruntimeconfig.cache
+C:\Users\eli\Desktop\new_mvc - Copy\obj\Debug\net5.0\new_mvc.csproj.CopyComplete
